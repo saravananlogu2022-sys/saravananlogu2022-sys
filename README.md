@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Saravanan Logu (sarav) 👋
 
-<!--
-**saravananlogu2022-sys/saravananlogu2022-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## What I Build
+AI agents and workflows that are useful for Retail Product Managers
 
-Here are some ideas to get you started:
+## What I'm Working On
+- 🔨 Email Sentiment Analyzer — Understand the sentiment in a given email and help craft a empathetic response 
+- 📚 Basics of Github and AI agents
+- 🤝 I am looking to collaborate with engineers and designers, who are building niche AI Products who needs PM with deep domain expertise in Retail and Product Management
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+
+| Project | What It Does | Stack |
+|---------|-------------|-------|
+| [Project 1](link) | [One line] | Python|
+| [Project 2](link) | [One line] | Claude API, Notion |
+| [Project 3](link) | [One line] | Zapier, GPT-4 |
+
+## Connect
+- 💼 www.linkedin.com/in/saravananlogu
+- 📝 [Portfolio/Blog](your-link)
+- 📧 [Email]mailto:saravananlogu2022@gmail.com
+
+---
+*PM who builds 0-1 things. Currently exploring AI agents to expedite the user research and product discovery space.*
